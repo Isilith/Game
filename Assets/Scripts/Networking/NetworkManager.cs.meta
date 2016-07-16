@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 977fd9d50e7b04642a2b1f7a98993971
+timeCreated: 1463653140
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - standbyCamera: {instanceID: 0}
+  - spawnpoint: {instanceID: 0}
+  - prefab: {fileID: 154382, guid: 3dfcc772f03c5334e9057b75c81e2e61, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

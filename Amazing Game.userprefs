@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\NetworkCharacter.cs">
+    <Files>
+      <File FileName="Assets\Scripts\NetworkCharacter.cs" Line="165" Column="4" />
+      <File FileName="Assets\Scripts\Character\Health.cs" Line="80" Column="33" />
+      <File FileName="Assets\Scripts\Networking\NetworkManager.cs" Line="198" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="70" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="H:\Unity\Projects\Amazing Game\Assets\Scripts\Networking\NetworkManager.cs" line="195" column="1" />
+      <Breakpoint file="H:\Unity\Projects\Amazing Game\Assets\Scripts\Character\Health.cs" line="93" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
